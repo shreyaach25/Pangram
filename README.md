@@ -1,2 +1,3 @@
 # Pangram
-Learning GitHub
+Learning GitHub.
+Mostly just sitting. 
